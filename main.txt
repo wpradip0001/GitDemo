@@ -1,2 +1,6 @@
 this is my gitdemo repo
+<<<<<<< HEAD
 changes from local
+=======
+changes from local
+>>>>>>> 7490b4d4bb17f607ce3ff74bec2625c84af581b9
